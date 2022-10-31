@@ -1,4 +1,4 @@
-package com.portfolio.jea.Security.Entity;
+package com.portfolio.jea.Entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -1,6 +1,6 @@
 package com.portfolio.jea.Repository;
 
-import com.portfolio.jea.Security.Entity.Educacion;
+import com.portfolio.jea.Entity.Educacion;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

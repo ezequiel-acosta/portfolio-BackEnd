@@ -1,8 +1,8 @@
 package com.portfolio.jea.Controller;
 
 import com.portfolio.jea.Dto.dtoEducacion;
+import com.portfolio.jea.Entity.Educacion;
 import com.portfolio.jea.Security.Controller.Mensaje;
-import com.portfolio.jea.Security.Entity.Educacion;
 import com.portfolio.jea.Service.SEducacion;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;

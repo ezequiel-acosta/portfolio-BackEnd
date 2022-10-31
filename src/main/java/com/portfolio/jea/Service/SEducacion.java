@@ -1,7 +1,7 @@
 package com.portfolio.jea.Service;
 
 import com.portfolio.jea.Repository.REducacion;
-import com.portfolio.jea.Security.Entity.Educacion;
+import com.portfolio.jea.Entity.Educacion;
 import java.util.List;
 import java.util.Optional;
 import javax.transaction.Transactional;
